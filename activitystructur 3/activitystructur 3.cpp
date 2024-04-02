@@ -40,4 +40,5 @@ int main() {
 	cout << "\n Nama Kota: " << mhs.alamat.kota;
 	cout << "\n Umur: " << mhs.umur;
 
-	
+	return 0;
+}
